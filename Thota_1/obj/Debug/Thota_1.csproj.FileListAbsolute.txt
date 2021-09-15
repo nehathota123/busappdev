@@ -1,0 +1,9 @@
+C:\Users\nehat\source\repos\Thota_1\Thota_1\obj\Debug\Thota_1.csprojAssemblyReference.cache
+C:\Users\nehat\source\repos\Thota_1\Thota_1\obj\Debug\Thota_1.MotelForm.resources
+C:\Users\nehat\source\repos\Thota_1\Thota_1\obj\Debug\Thota_1.Properties.Resources.resources
+C:\Users\nehat\source\repos\Thota_1\Thota_1\obj\Debug\Thota_1.csproj.GenerateResource.cache
+C:\Users\nehat\source\repos\Thota_1\Thota_1\bin\Debug\Thota_1.exe.config
+C:\Users\nehat\source\repos\Thota_1\Thota_1\bin\Debug\Thota_1.exe
+C:\Users\nehat\source\repos\Thota_1\Thota_1\bin\Debug\Thota_1.pdb
+C:\Users\nehat\source\repos\Thota_1\Thota_1\obj\Debug\Thota_1.exe
+C:\Users\nehat\source\repos\Thota_1\Thota_1\obj\Debug\Thota_1.pdb

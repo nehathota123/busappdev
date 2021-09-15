@@ -1,0 +1,10 @@
+C:\Users\nehat\source\repos\Thota_4\Thota_4\bin\Debug\Thota_4.exe.config
+C:\Users\nehat\source\repos\Thota_4\Thota_4\bin\Debug\Thota_4.exe
+C:\Users\nehat\source\repos\Thota_4\Thota_4\bin\Debug\Thota_4.pdb
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.csprojAssemblyReference.cache
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.Properties.Resources.resources
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.csproj.GenerateResource.cache
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.exe
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.pdb
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.AboutForm.resources
+C:\Users\nehat\source\repos\Thota_4\Thota_4\obj\Debug\Thota_4.RegistrationForm.resources
